@@ -1,6 +1,6 @@
 {
   "name": "aws-abg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "bin": {
     "aws-abg": "bin/aws-abg.js"
